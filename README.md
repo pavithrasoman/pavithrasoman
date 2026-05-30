@@ -1,63 +1,38 @@
-# Hi — I'm Pavithra Somasundaram 👋 (she / her)
+# Pavithra Somasundaram
 
-**Senior Software Engineer | Embedded Firmware, Device Drivers & SDK Development**  
-Ethernet switching • RTOS • Hardware & board bring‑up
-
-TL;DR: Device drivers, embedded firmware, and SDK engineer for Ethernet switches — available immediately for Toronto/GTA or remote roles. Key skills: Device Drivers • C/C++ • RTOS • GDB • JTAG • SDKs • Hardware Bring‑Up • Ethernet Switching
+Embedded Software Engineer - Low-Level Drivers, Firmware, Bare-Metal & RTOS
 
 📍 Toronto, Canada (Toronto / GTA or Remote)  
 ✅ Open to work • ❌ No sponsorship required • Availability: Immediate • Time zone: Eastern (Toronto)
+
+Contact: 
+- ✉️ Email (fastest): pavithrasoman@gmail.com
+- 💼 LinkedIn: [Pavithra Somasundaram](https://www.linkedin.com/in/pavithrasomasundaram)  
+- 💻 GitHub: [Pavithra Soman](https://github.com/pavithrasoman)
 
 ---
 
 ## 🔭 About me
 
-I’m a senior embedded software engineer with five years of industry experience building low-level firmware and SDKs for Ethernet switching and packet-processor platforms. I specialize in device drivers, RTOS-based firmware, and hardware bring‑up, working closely with silicon, validation, and system teams to deliver high-quality networking products.
+I have spent 5 years working close to the hardware stack, developing low-level software for Ethernet switching devices.
 
-I enjoy solving complex control-path, timing, and performance problems, especially where hardware and software intersect.
+Today, I'm applying that same low-level mindset to MCU firmware development, building STM32 bare-metal and FreeRTOS projects to deepen my understanding of MCU architecture, peripheral drivers, real-time systems, and embedded software design from the ground up.
 
-- Previously: Senior Software Engineer, Marvell India Pvt. Ltd. (2018–2023)  
-- Domain: Ethernet switches, packet processors, SDK development
+This GitHub documents that journey through hands-on projects, experiments, and continuous learning.
 
----
-
-## Recruiter snapshot (one-line)
-Device drivers & embedded firmware engineer — C/C++ • RTOS • SDKs • GDB • JTAG • Ethernet switching — Available now (Toronto/Eastern or Remote)
+Open to Firmware Development, Device Driver Development and Embedded Software Engineering opportunities.
 
 ---
 
-## 🛠️ Core Technical Skills (keywords)
-Device Drivers • Embedded Firmware • SDK Development • Ethernet Switching • Packet Processors • RTOS • C • C++ • GDB • JTAG • Git • Jenkins • JIRA • Lua • Hardware Bring‑Up • Board Diagnostics • Performance & Latency Monitoring • ECMP • Hashing • Tagging
+## Current Project - Bare-metal Thermostat System [STM32]
+
+Developing a multi-peripheral embedded thermostat system using on STM32F446RE, combining drivers for sensors, display, and control logic in a bare-metal environment. Currently, I have developed a GPIO driver with a Makefile-based build setup and am extending the system by adding peripherals including timers, interrupts, and ADC.
+<p>
+<img width="150" align="left" alt="WhatsApp Image 2026-05-29 at 7 54 31 PM" src="https://github.com/user-attachments/assets/9b0f839c-7afc-4b60-874e-f5c5211a2f59" /> <br clear="left"/>
+</p>
+
 
 ---
-
-## 🛠️ Core Technical Skills (details)
-
-### Languages & Low-level
-- C (Expert), C++
-- Linux user-space & driver-level development
-
-### Embedded & Firmware
-- Device driver development
-- SDK development for networking SoCs
-- RTOS-based firmware
-- Packet-processor & control-path feature development
-- Interrupts, hashing, ECMP, tagging, latency monitoring
-
-### Hardware & Bring-up
-- Hardware / board bring-up
-- JTAG-based debugging
-- Board-level diagnostics
-- Simulation and hardware unit testing
-
-### Debugging, Tools & CI
-- GDB, JTAG
-- Git, Jenkins, JIRA
-- Lua scripting
-- Linux development environment
-
----
-
 ## 💼 Professional Experience
 
 Senior Software Engineer — Marvell India Pvt. Ltd.  
@@ -74,16 +49,15 @@ Senior Software Engineer — Marvell India Pvt. Ltd.
 
 ---
 
-## 🏆 Career Highlights
-
-- Enabled a new AWS project by delivering an AWS traffic test within one day, resulting in a 20% pay raise.  
-- Won feature ownership within 3 months by delivering a critical debug feature ahead of a 7-day deadline.  
-- Led development of multiple control-path enhancements that improved packet-processor performance and reliability.  
-- Strong track record of hardware + simulation testing, reducing integration and bring-up issues.
-
----
 
 ## 📌 Pinned Projects
+Projects here focus on:
+
+Bare-metal firmware
+RTOS-based systems
+Peripheral driver development
+Embedded architecture
+Hardware-software debugging
 
 - bootcamp — Embedded firmware exercises & examples  
   - Repo: https://github.com/pavithrasoman/bootcamp  
@@ -98,29 +72,5 @@ This profile focuses on:
 - Device-driver & low-level concepts  
 - Interview-relevant firmware patterns  
 - Memory, performance, and hardware-aware design
-
----
-
-## 🚀 Open to
-- Embedded firmware / device driver roles  
-- SDK & networking software roles  
-- Full-time or contract  
-- Remote-first or Toronto / GTA
-
----
-
-## 📫 How to reach me (preferred contact)
-- ✉️ Email (fastest): [pavithrasoman@gmail.com](mailto:pavithrasoman@gmail.com)  
-- 💼 LinkedIn: [Pavithra Somasundaram](https://www.linkedin.com/in/pavithra-somasundaram-8a7a18105)  
-- 💻 GitHub: https://github.com/pavithrasoman
-
----
-
-## Quick recruiter checklist (copyable)
-- Role fit: Device Drivers / Embedded Firmware / SDKs — Yes  
-- Location: Toronto/GTA or Remote — Yes  
-- Sponsorship: Not required — Yes  
-- Availability: Immediate — Yes  
-- Contact: pavithrasoman@gmail.com — Email to schedule interview
 
 ---
