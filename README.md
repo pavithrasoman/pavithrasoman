@@ -53,12 +53,17 @@ Senior Software Engineer — Marvell India Pvt. Ltd.
 ## 📌 Pinned Projects
 Projects here focus on:
 
-Bare-metal firmware
-RTOS-based systems
-Peripheral driver development
-Embedded architecture
-Hardware-software debugging
+- Bare-metal firmware
+- RTOS-based systems
+- Peripheral driver development
+- Embedded architecture
+- Hardware-software debugging
 
+| Project | Summary | Stack |
+| :--- | :---: | ---: |
+| Thermostat | Building a bare-metal thermostat system on STM32  | C . STM32. CMake . GPIO . ADC . UART . I2C . SPI . Timers . interrupts  |
+| Bare-Metal Firmware Simulation | A lightweight firmware experimentation and architecture platform. | C. MakeFile. UART. GPIO |
+| 
 - bootcamp — Embedded firmware exercises & examples  
   - Repo: https://github.com/pavithrasoman/bootcamp  
   - Short description (placeholder): Collection of embedded boot and firmware examples, board bring‑up scripts, and small utilities demonstrating low-level initialization, diagnostics, and debugging workflows.  
