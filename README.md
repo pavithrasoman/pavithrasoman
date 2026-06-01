@@ -31,24 +31,9 @@ Developing a multi-peripheral embedded thermostat system using on STM32F446RE, c
 <img width="150" align="left" alt="WhatsApp Image 2026-05-29 at 7 54 31 PM" src="https://github.com/user-attachments/assets/9b0f839c-7afc-4b60-874e-f5c5211a2f59" /> <br clear="left"/>
 </p>
 
+*Long-term goal*: evolve the project from a bare-metal thermostat into a production-grade embedded firmware platform demonstrating modern embedded software architecture, RTOS design, reliability, testing, and deployment practices.
 
 ---
-## 💼 Professional Experience
-
-Senior Software Engineer — Marvell India Pvt. Ltd.  
-📍 Bengaluru, India | Jul 2018 – May 2023
-
-- Designed, implemented, and tested device driver and SDK features for multiple packet-processor families in the Marvell Prestera Ethernet switch portfolio.  
-- Delivered key features including IEEE 802.1Qch, L2 ECMP, interrupt handling, and hashing mechanisms.  
-- Implemented a 4-byte proprietary tag attachment to control-path packets, significantly enhancing packet metadata handling.  
-- Designed and validated mechanisms for internal packet latency monitoring, improving switch performance visibility.  
-- Developed a system to map physical ports to push-tag values, streamlining unicast streams and FDB updates.  
-- Created an event-counting interface for programmable flows, improving per-flow observability.  
-- Collaborated with architecture, QA/validation, system test, product management, and customer teams.  
-- Conducted simulation-based and hardware unit testing to ensure high-quality deliveries.
-
----
-
 
 ## 📌 Pinned Projects
 Projects here focus on:
@@ -59,15 +44,16 @@ Projects here focus on:
 - Embedded architecture
 - Hardware-software debugging
 
-| Project | Summary | Stack |
+| Project | Summary |  Stack |
 | :--- | :---: | ---: |
-| [Thermostat](https://github.com/pavithrasoman/thermostat) (Ongoing) | Building a bare-metal thermostat system on STM32  | C . STM32. CMake . GPIO . ADC . UART . I2C . SPI . Timers . interrupts  |
+| [Thermostat](https://github.com/pavithrasoman/thermostat) (Ongoing) | Building a bare-metal thermostat system on STM32  | 
+C . STM32. CMake . GPIO . ADC . UART . I2C . SPI . Timers . interrupts  |
 | [Bare-Metal Firmware Simulation](https://github.com/pavithrasoman/baremetal-firmware-simulation) | A lightweight firmware experimentation and architecture platform. | C. MakeFile. UART. GPIO |
 | [FreeRTOS Tasking Demo](https://github.com/pavithrasoman/freertos-taskingdemo) | Demonstrates FreeRTOS task creation, scheduling, priorities, delays, and context switching in a real-time embedded application. | C, FreeRTOS, GCC, Makefile |
 
 ---
 
-| Area | T00ls |
+| Area | Tools |
 |-----------|-------------|
 | Languages | C , C++ |
 | Processors | ARM Cortex-M, STM32 |
