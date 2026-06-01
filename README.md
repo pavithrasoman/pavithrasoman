@@ -44,10 +44,9 @@ Projects here focus on:
 - Embedded architecture
 - Hardware-software debugging
 
-| Project | Summary |  Stack |
+| Project | Summary | Stack |
 | :--- | :---: | ---: |
-| [Thermostat](https://github.com/pavithrasoman/thermostat) (Ongoing) | Building a bare-metal thermostat system on STM32  | 
-C . STM32. CMake . GPIO . ADC . UART . I2C . SPI . Timers . interrupts  |
+| [Thermostat](https://github.com/pavithrasoman/thermostat) (Ongoing) | Building a bare-metal thermostat system on STM32  | C . STM32. CMake . GPIO . ADC . UART . I2C . SPI . Timers . interrupts  |
 | [Bare-Metal Firmware Simulation](https://github.com/pavithrasoman/baremetal-firmware-simulation) | A lightweight firmware experimentation and architecture platform. | C. MakeFile. UART. GPIO |
 | [FreeRTOS Tasking Demo](https://github.com/pavithrasoman/freertos-taskingdemo) | Demonstrates FreeRTOS task creation, scheduling, priorities, delays, and context switching in a real-time embedded application. | C, FreeRTOS, GCC, Makefile |
 
