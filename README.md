@@ -61,13 +61,10 @@ Projects here focus on:
 
 | Project | Summary | Stack |
 | :--- | :---: | ---: |
-| Thermostat | Building a bare-metal thermostat system on STM32  | C . STM32. CMake . GPIO . ADC . UART . I2C . SPI . Timers . interrupts  |
-| Bare-Metal Firmware Simulation | A lightweight firmware experimentation and architecture platform. | C. MakeFile. UART. GPIO |
-| 
-- bootcamp — Embedded firmware exercises & examples  
-  - Repo: https://github.com/pavithrasoman/bootcamp  
-  - Short description (placeholder): Collection of embedded boot and firmware examples, board bring‑up scripts, and small utilities demonstrating low-level initialization, diagnostics, and debugging workflows.  
-  - Tech: C, RTOS
+| [Thermostat](https://github.com/pavithrasoman/thermostat) (Ongoing) | Building a bare-metal thermostat system on STM32  | C . STM32. CMake . GPIO . ADC . UART . I2C . SPI . Timers . interrupts  |
+| [Bare-Metal Firmware Simulation] | A lightweight firmware experimentation and architecture platform. | C. MakeFile. UART. GPIO |
+| [FreeRTOS Tasking Demo](https://github.com/pavithrasoman/freertos-taskingdemo) | Demonstrates FreeRTOS task creation, scheduling, priorities, delays, and context switching in a real-time embedded application. | C, FreeRTOS, GCC, Makefile |
+
 ---
 
 ## 📂 Featured Work (GitHub)
