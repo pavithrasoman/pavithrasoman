@@ -64,12 +64,4 @@ Projects here focus on:
 | Debugging | GDB, JTAG/SWD, OpenOCD |
 | DevOps |	GitHub Actions, Docker, GitLab CI/CD |
 
-## 📂 Featured Work (GitHub)
-
-This profile focuses on:
-- Embedded C problem solving  
-- Device-driver & low-level concepts  
-- Interview-relevant firmware patterns  
-- Memory, performance, and hardware-aware design
-
 ---
