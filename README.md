@@ -30,7 +30,8 @@ Developing a multi-peripheral embedded thermostat system using on STM32F446RE, c
 <p>
 <img width="150" align="left" alt="WhatsApp Image 2026-05-29 at 7 54 31 PM" src="https://github.com/user-attachments/assets/9b0f839c-7afc-4b60-874e-f5c5211a2f59" /> <br clear="left"/>
 </p>
-
+<img width="150" align="left" alt="WhatsApp Image 2026-06-17 at 2.14.10 PM" src="https://github.com/user-attachments/assets/9b0f839c-7afc-4b60-874e-f5c5211a2f59" /> <br clear="left"/>
+</p>
 *Long-term goal*: evolve the project from a bare-metal thermostat into a production-grade embedded firmware platform demonstrating modern embedded software architecture, RTOS design, reliability, testing, and deployment practices.
 
 ---
