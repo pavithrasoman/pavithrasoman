@@ -27,9 +27,12 @@ Open to Firmware Development, Device Driver Development and Embedded Software En
 ## Current Project - Bare-metal Thermostat System [STM32]
 
 Developing a multi-peripheral embedded thermostat system using on STM32F446RE, combining drivers for sensors, display, and control logic in a bare-metal environment. Currently, I have developed a GPIO driver with a Makefile-based build setup and am extending the system by adding peripherals including timers, interrupts, and ADC.
-<p>
-<img width="150" align="left" alt="WhatsApp Image 2026-05-29 at 7 54 31 PM" src="https://github.com/user-attachments/assets/9b0f839c-7afc-4b60-874e-f5c5211a2f59" /> <br clear="left"/> 
-<img width="960" height="1280" alt="WhatsApp Image 2026-06-17 at 2 14 10 PM" src="https://github.com/user-attachments/assets/ebd9e5c8-2701-4fd7-9f87-779199562655" />
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/9b0f839c-7afc-4b60-874e-f5c5211a2f59" width="150" alt="WhatsApp Image 2026-05-29 at 7 54 31 PM"></td>
+    <td><img src="https://github.com/user-attachments/assets/ebd9e5c8-2701-4fd7-9f87-779199562655" width="150" alt="WhatsApp Image 2026-06-17 at 2 14 10 PM"></td>
+  </tr>
+</table>
 
 *Long-term goal*: evolve the project from a bare-metal thermostat into a production-grade embedded firmware platform demonstrating modern embedded software architecture, RTOS design, reliability, testing, and deployment practices.
 
